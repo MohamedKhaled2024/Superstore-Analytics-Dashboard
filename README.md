@@ -58,3 +58,26 @@ Used for:
 * Version control
 * Project documentation
 * Portfolio presentation
+## 🔄 Project Workflow
+
+The project followed a structured end-to-end data analytics workflow:
+
+**1. Data Understanding**
+→ Understanding the dataset structure, business dimensions, and key metrics.
+
+**2. Data Cleaning & Preparation**
+→ Checking data quality, handling missing values, validating data types, and preparing the dataset for analysis.
+
+**3. Exploratory Data Analysis**
+→ Analyzing Sales, Profit, Orders, Categories, Products, Regions, and Customer Segments using Python.
+
+**4. Insight Generation**
+→ Identifying trends, performance patterns, profitability gaps, and potential business opportunities.
+
+**5. Power BI Dashboard Development**
+→ Transforming analytical findings into an interactive dashboard with KPIs, charts, filters, and business-focused visualizations.
+
+**6. Business Recommendations**
+→ Translating the findings into actionable recommendations to support data-driven decision-making.
+
+---
