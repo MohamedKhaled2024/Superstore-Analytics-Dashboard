@@ -2,7 +2,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Power BI Dashboard](Images/Superstore_Dashboard.png)
+![Superstore Dashboard](Images/Superstore_Dashboard.png)
 
 ## 📌 Project Overview
 
