@@ -1,5 +1,9 @@
 # 📊 Superstore Sales Analysis & Power BI Dashboard
 
+## 🖼️ Dashboard Preview
+
+![Superstore Power BI Dashboard](Images/Superstore_Dashboard.png)
+
 ## 📌 Project Overview
 
 This project is an end-to-end **Data Analytics & Business Intelligence** project based on the Superstore dataset.
