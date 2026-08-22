@@ -2,7 +2,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Dashboard](Images/Superstore_Dashboard.png)
+<img width="1410" height="799" alt="Screenshot 2026-08-22 190144" src="https://github.com/user-attachments/assets/cf030d1b-c076-4f47-a142-1b0ea32995bd" />
 
 ## 📌 Project Overview
 
