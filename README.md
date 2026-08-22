@@ -22,3 +22,39 @@ The analysis was designed to answer key business questions:
 * How can the analysis support better **data-driven business decisions**?
 
 ---
+## 🛠️ Tools & Technologies
+
+### 🐍 Python
+
+Used for:
+
+* Data cleaning and preparation
+* Exploratory Data Analysis (EDA)
+* Statistical analysis
+* Identifying trends and patterns
+* Generating business insights
+
+**Libraries:**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### 📊 Power BI
+
+Used for:
+
+* Data visualization
+* KPI development
+* Interactive dashboard design
+* Trend and performance analysis
+* Business storytelling
+
+### 🔧 Git & GitHub
+
+Used for:
+
+* Version control
+* Project documentation
+* Portfolio presentation
